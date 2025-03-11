@@ -22,6 +22,8 @@ body{
 
 .entry{
     background: rgba(59, 74, 107, .4);
+	margin-top: 90px;
+	width:300px;
 }
 
 #entryHolder{
@@ -73,6 +75,7 @@ button{
     font-family: 'Oswald', sans-serif;
     border: none;
     box-shadow: 2px 4px 5px #444;
+	margin-bottom: 50px;
 }
 h1{
     font-size: 36px;
